@@ -1,0 +1,26 @@
+body {
+  width: 1024px;
+  margin: 0 auto;
+  background-color: lightgray;
+}
+
+h1 {
+  font: 40px bold white;
+}
+
+.row {
+	display: table-row;
+    border-color: black;
+}
+
+.cell {
+ 	display: table-cell;
+}
+
+.menu {
+  background-color: red;
+}
+
+.info {
+  background-color: yellow;
+}
